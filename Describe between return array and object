@@ -1,0 +1,15 @@
+Describe between return array and object:-
+Arrays:
+1.	Ordered List: Arrays are ordered lists of values. Each element in an array has a numerical index starting from 0.	Key-Value 
+2.	Homogeneous Data: Arrays typically store homogeneous data, meaning that all elements are of the same data type.	
+3.	Methods: Arrays come with built-in methods for common operations like adding, removing, and manipulating elements. 
+    For example, you can use push to add elements to the end of an array or pop to remove the last element.
+4.	Iteration: Arrays are easily iterable using loops, making it convenient to perform operations on each element.
+
+Objects:
+1. Pairs: Objects are collections of key-value pairs. The keys are strings or symbols, and the values can be of any data type.
+2. Unordered: Unlike arrays, objects are unordered. The order of key-value pairs is not guaranteed.
+3. Heterogeneous Data: Objects can store heterogeneous data, meaning that the values associated with different keys can be of different data types.
+4. Dot Notation: You can access values in an object using dot notation (object.property) or bracket notation (object['property']).
+
+
